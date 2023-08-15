@@ -6,3 +6,4 @@ let mul = x * y;
 console.log(sum);
 console.log(sub);
 console.log(mul);
+console.log("abcd");
